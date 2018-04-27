@@ -11,7 +11,5 @@ public class ValidaCampoNomeArqivoTest {
 	public void validarCampoNome() throws Exception {
 		Assert.assertTrue(VerificaArquivo.validarQtdCaracteresNome());
 	}
-	
-	
 
 }
